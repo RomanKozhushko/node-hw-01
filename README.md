@@ -1,9 +1,11 @@
 # node-hw-01
 
-https://ibb.co/1mPGvyx
 
-https://ibb.co/Hg87xVM
 
-https://ibb.co/7nWxDpb
+command - list - https://ibb.co/HpyRvQ9
 
-https://ibb.co/HpyRvQ9
+command - get - https://ibb.co/1mPGvyx
+
+command - remove - https://ibb.co/7nWxDpb
+
+command - add - https://ibb.co/Hg87xVM
